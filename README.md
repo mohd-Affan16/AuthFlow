@@ -24,8 +24,8 @@ I always wondered how "Login with Google" works behind the scenes. Turns out it'
 ## Screenshort
 
 <img width="1500" height="700" alt="Screenshot 2026-07-26 155811" src="https://github.com/user-attachments/assets/6ad8c9b3-9011-42b7-a2df-ee0f7ddc4a85" />
-<img width="500" height="300" alt="Screenshot 2026-07-26 155822" src="https://github.com/user-attachments/assets/1e6b80ec-1740-4a41-8882-ed405e96c2cd" />
-<img width="500" height="300" alt="Screenshot 2026-07-26 155830" src="https://github.com/user-attachments/assets/89921afb-54d1-4c40-8fa4-9295b9012271" />
+<img width="400" height="300" alt="Screenshot 2026-07-26 155822" src="https://github.com/user-attachments/assets/1e6b80ec-1740-4a41-8882-ed405e96c2cd" />
+<img width="400" height="300" alt="Screenshot 2026-07-26 155830" src="https://github.com/user-attachments/assets/89921afb-54d1-4c40-8fa4-9295b9012271" />
 
 ## How to Run Locally
 1. Clone the repository
