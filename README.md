@@ -1,0 +1,35 @@
+# AuthFlow - Google OAuth Authentication System
+
+A clean and secure full-stack authentication application that allows users to login with Google using OAuth 2.0.
+
+## Overview
+I always wondered how "Login with Google" works behind the scenes. Turns out it's simpler than I thought — and completely free to implement. So I built **AuthFlow** to understand the full authentication flow from frontend to backend.
+
+## Features
+- Google OAuth 2.0 login using Passport.js
+- Secure session management with express-session
+- Protected routes and proper logout functionality
+- Modern glassmorphism UI with smooth animations
+- Responsive design for mobile and desktop
+- Dynamic user profile display after login
+
+## Tech Stack
+- **Backend**: Node.js, Express.js
+- **Authentication**: Passport.js + passport-google-oauth20
+- **Frontend**: EJS (Server-Side Rendering), Tailwind CSS
+- **Session Management**: express-session
+- **Environment Variables**: dotenv
+- **Other**: JavaScript, HTML, CSS
+
+## How to Run Locally
+1. Clone the repository
+2. Run `npm install`
+3. Create a `.env` file and add your Google OAuth credentials
+4. Run `npm start`
+5. Open `http://localhost:3000`
+
+## What I Learned
+- How OAuth 2.0 authentication works
+- Middleware execution in Express
+- Secure session handling
+- Combining modern UI with backend logic
